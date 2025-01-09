@@ -47,3 +47,7 @@ Um alle benötigten Bibliotheken zu installieren, können Sie den folgenden Befe
 
 ```bash
 pip install -r requirements.txt
+
+## Cover Image
+
+![Project Cover Image](Praesentation.jpg)
