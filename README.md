@@ -1,6 +1,5 @@
 # Machine Learning Projekt
 
-
 Repository-Link: [Machine Learning Projekt](https://github.com/sina-1997-3/Machine-Learning-.git)
 
 ## Übersicht
@@ -47,7 +46,3 @@ Um alle benötigten Bibliotheken zu installieren, können Sie den folgenden Befe
 
 ```bash
 pip install -r requirements.txt
-
-## Cover Image
-
-![Project Cover Image](Praesentation.jpg)
