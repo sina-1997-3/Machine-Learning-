@@ -4,7 +4,7 @@ Repository-Link: [Machine Learning Projekt](https://github.com/sina-1997-3/Machi
 
 ## Übersicht
 
-Die **Main.ipynb** Datei enthält die vollständige Implementierung. Dies umfasst die Datenvorbereitung, Feature Engineering, Modelltraining, Evaluierung und die Einreichung von Vorhersagen. Die wichtigsten Schritte im Notebook sind wie folgt:
+Die [Main.ipynb](Main.ipynb) Datei enthält die vollständige Implementierung. Dies umfasst die Datenvorbereitung, Feature Engineering, Modelltraining, Evaluierung und die Einreichung von Vorhersagen. Die wichtigsten Schritte im Notebook sind wie folgt:
 
 1. **Daten Laden und Validierung**:
    - Die notwendigen Datendateien (`umsatzdaten_gekuerzt.csv`, `kiwo.csv`, `wetter.csv` und `feiertage.csv`) werden geladen und auf Fehler überprüft.
