@@ -32,7 +32,7 @@ Die **Main.ipynb** Datei enthält die vollständige Implementierung. Dies umfass
 ## Präsentation  
 
 Die Präsentation des Projekts finden Sie unter:  
-[Presentation.pptx](Presentation/Presentation.pptx)  
+[Presentation.pptx](Presentation)  
 
 ## Anforderungen
 
