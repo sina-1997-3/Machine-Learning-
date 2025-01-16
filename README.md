@@ -29,6 +29,11 @@ Die **Main.ipynb** Datei enthält die vollständige Implementierung. Dies umfass
    - Die Modelle werden mit Metriken wie R² und Adjustiertem R² für die lineare Regression sowie Verlust für das neuronale Netzwerk bewertet.
    - Vorhersagen werden auf den Validierungsdaten gemacht und die Ergebnisse in einer CSV-Datei (`submission.csv`) gespeichert.
 
+## Präsentation  
+
+Die Präsentation des Projekts finden Sie unter:  
+[Presentation.pptx](Presentation/Presentation.pptx)  
+
 ## Anforderungen
 
 Um dieses Projekt auszuführen, benötigen Sie folgende Bibliotheken:
